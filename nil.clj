@@ -11,4 +11,7 @@
 
 (or false nil false)
 
-(and )
+(and true "yes" 1 :worth)
+(and false "no" 1 :worth) 
+(or nil)
+
