@@ -24,3 +24,4 @@
        (if (= severity :mild)
          "MILDLY INCONVENIENCED!"
          "DOOOOOOOOMED!")))
+
