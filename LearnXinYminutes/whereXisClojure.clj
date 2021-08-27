@@ -1,0 +1,2 @@
+; Comments start with semicolons.
+
