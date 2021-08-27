@@ -9,3 +9,5 @@
 
 ; more basic examples:
 
+; str will create a string out of all its arguments
+(str "Hello" " " "World") ; => "hello World"
